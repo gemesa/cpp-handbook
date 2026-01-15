@@ -1,4 +1,4 @@
 # Summary
 
-- [Introduction](./introduction.md)
-- [References](./references.md)
+[Introduction](./introduction.md)
+[References](./references.md)
