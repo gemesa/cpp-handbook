@@ -12,9 +12,9 @@ Time complexity describes how an algorithm's runtime grows relative to input siz
 
 For 1,000,000 elements (worst case):
 - O(1): 1 operation
-- O(log n): $\log_2 1,000,000 \approx$ 19.93 -> 20 operations
+- O(log n): log2 1,000,000 ~= 19.93 -> 20 operations
 - O(n): 1,000,000 operations
-- O(n log n): $1,000,000 * \log_2 1,000,000 \approx 1,000,000 * 19.93$ -> 20,000,000 operations
+- O(n log n): 1,000,000 * log2 1,000,000 ~= 1,000,000 * 19.93 -> 20,000,000 operations
 - O(n^2): 1,000,000 * 1,000,000 operations
 
 ## Merge sort
@@ -37,7 +37,7 @@ Example:
 [1,2,3,4] // n-1 (3) comparisons
 ```
 
-Total: $<n * \log_2 n$ -> $n * \log_2 n$
+Total: <n * log2 n -> n * log2 n
 
 Big O is about scaling so we can ignore the < sign.
 
