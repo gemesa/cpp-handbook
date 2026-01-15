@@ -65,8 +65,9 @@ pass 2: n - 2 comparisons
 pass n-1: 1 comparison
 ```
 
-Total: (n-1) + (n-2) + ... + 1
-Or written the other way: 1 + 2 + ... + (n-1)
+Total: (n-1) + (n-2) + ... + 1.
+
+Or written the other way: 1 + 2 + ... + (n-1).
 
 Doubling trick so we can simplify it:
 
@@ -79,6 +80,6 @@ Doubling trick so we can simplify it:
 
 Each column sums to n. How many columns? There are (n-1) numbers.
 
-So we get n*(n-1) but we need to divide it by 2 (to undo the doubling): n*(n-1)/2 = (n^2-n)/2 -> O(n^2)
+So we get n*(n-1) but we need to divide it by 2 (to undo the doubling): n*(n-1)/2 = (n^2-n)/2 -> O(n^2).
 
 Big O is about scaling so it ignores 2 and -n.
