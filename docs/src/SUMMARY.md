@@ -13,3 +13,4 @@
 - [`std::for_each`](./algorithms/std-for_each.md)
 - [`std::equal`](./algorithms/std-equal.md)
 - [`std::mismatch`](./algorithms/std-mismatch.md)
+- [`std::search`](./algorithms/std-search.md)
