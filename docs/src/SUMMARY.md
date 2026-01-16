@@ -32,3 +32,4 @@
 - [`std::reduce`](./algorithms/std-reduce.md)
 - [`std::min_element`/`std::max_element`/`std::minmax_element`](./algorithms/std-minmax.md)
 - [`std::clamp`](./algorithms/std-clamp.md)
+- [`std::partition`](./algorithms/std-partition.md)
