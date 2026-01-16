@@ -31,3 +31,4 @@
 - [`std::iota`](./algorithms/std-iota.md)
 - [`std::reduce`](./algorithms/std-reduce.md)
 - [`std::min_element`/`std::max_element`/`std::minmax_element`](./algorithms/std-minmax.md)
+- [`std::clamp`](./algorithms/std-clamp.md)
