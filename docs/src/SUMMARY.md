@@ -26,3 +26,4 @@
 - [`std::replace`/`std::replace_if`](./algorithms/std-replace.md)
 - [`std::remove_if`](./algorithms/std-remove_if.md)
 - [`std::unique`](./algorithms/std-unique.md)
+- [`std::reverse`](./algorithms/std-reverse.md)
