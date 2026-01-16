@@ -8,3 +8,4 @@
 - [Time complexity overview](./algorithms/time-complexity-overview.md)
 - [`std::find`](./algorithms/std-find.md)
 - [`std::find_if`](./algorithms/std-find_if.md)
+- [`std::count`/`std::count_if`](./algorithms/std-count.md)
