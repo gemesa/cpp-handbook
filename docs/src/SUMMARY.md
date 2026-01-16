@@ -12,3 +12,4 @@
 - [`std::all_of`/`std::any_of`/`std:none_of`](./algorithms/std-all_of-std-any_of-std-none_of.md)
 - [`std::for_each`](./algorithms/std-for_each.md)
 - [`std::equal`](./algorithms/std-equal.md)
+- [`std::mismatch`](./algorithms/std-mismatch.md)
