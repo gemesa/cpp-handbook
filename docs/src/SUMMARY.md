@@ -14,3 +14,4 @@
 - [`std::equal`](./algorithms/std-equal.md)
 - [`std::mismatch`](./algorithms/std-mismatch.md)
 - [`std::search`](./algorithms/std-search.md)
+- [`std::adjacent_find`](./algorithms/std-adjacent_if.md)
