@@ -6,3 +6,4 @@
 # Algorithms
 
 - [Time complexity overview](./algorithms/time-complexity-overview.md)
+- [`std::find`](./algorithms/std-find.md)
