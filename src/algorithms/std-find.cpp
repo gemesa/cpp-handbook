@@ -23,9 +23,9 @@ int main() {
 
   if (it != instructions.end()) {
     auto index = std::distance(instructions.begin(), it);
-    std::print("Found NOP at index: {}", index);
+    std::println("Found NOP at index: {}", index);
   } else {
-    std::print("No NOP found.");
+    std::println("No NOP found.");
   }
 
   return 0;
