@@ -21,3 +21,4 @@
 - [`std::partial_sort`](./algorithms/std-partial_sort.md)
 - [`std::is_sorted`](./algorithms/std-is_sorted.md)
 - [`std::transform`](./algorithms/std-transform.md)
+- [`std::copy`/`std::copy_if`](./algorithms/std-copy.md)
