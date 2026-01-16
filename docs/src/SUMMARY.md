@@ -22,4 +22,4 @@
 - [`std::is_sorted`](./algorithms/std-is_sorted.md)
 - [`std::transform`](./algorithms/std-transform.md)
 - [`std::copy`/`std::copy_if`](./algorithms/std-copy.md)
-- []
+- [`std::fill`/`std::fill_n`](./algorithms/std-fill.md)

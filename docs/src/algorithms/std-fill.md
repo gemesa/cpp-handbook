@@ -6,7 +6,7 @@ Fill range with a value.
 
 ## Explanation
 
-`fill` takes iterator range, `fill_n` takes a start iterator and count.
+`fill` takes iterator range, `fill_n` takes a start iterator and count. Common for initializing buffers or creating NOP sleds.
 
 Time complexity: O(n). Assigns value to each element. See [possible implementation](https://cppreference.com/w/cpp/algorithm/fill.html#Possible_implementation).
 
