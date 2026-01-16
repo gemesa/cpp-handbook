@@ -5,4 +5,4 @@
 
 # Algorithms
 
-- [Time complexity overview](./time-complexity-overview.md)
+- [Time complexity overview](./algorithms/time-complexity-overview.md)
