@@ -18,3 +18,4 @@
 - [`std::binary_search`](./algorithms/std-binary_search.md)
 - [`std::sort`](./algorithms/std-sort.md)
 - [`std::stable_sort`](./algorithms/std-stable_sort.md)
+- [`std::partial_sort`](./algorithms/std-partial_sort.md)
