@@ -1,0 +1,37 @@
+name: Code
+
+on: [push]
+
+jobs:
+  check-format-and-build:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [macos-latest, ubuntu-latest]
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install deps (macOS)
+        if: matrix.os == 'macos-latest'
+        run: brew install llvm
+
+      - name: Add LLVM to PATH (macOS)
+        if: matrix.os == 'macos-latest'
+        run: echo "$(brew --prefix llvm)/bin" >> $GITHUB_PATH
+
+      - name: Install deps (Ubuntu)
+        if: matrix.os == 'ubuntu-latest'
+        run: |
+          wget https://apt.llvm.org/llvm.sh
+          chmod +x llvm.sh
+          sudo ./llvm.sh 21 all
+          sudo ln -sf /usr/bin/clang-21 /usr/bin/clang
+          sudo ln -sf /usr/bin/clang++-21 /usr/bin/clang++
+          sudo ln -sf /usr/bin/clang-format-21 /usr/bin/clang-format
+
+      - name: Format check the code
+        run: make format-check
+
+      - name: Build and run the executables
+        run: make run
