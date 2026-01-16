@@ -27,3 +27,4 @@
 - [`std::remove_if`](./algorithms/std-remove_if.md)
 - [`std::unique`](./algorithms/std-unique.md)
 - [`std::reverse`](./algorithms/std-reverse.md)
+- [`std::accumulate`](./algorithms/std-accumulate.md)
