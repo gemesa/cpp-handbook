@@ -28,3 +28,4 @@
 - [`std::unique`](./algorithms/std-unique.md)
 - [`std::reverse`](./algorithms/std-reverse.md)
 - [`std::accumulate`](./algorithms/std-accumulate.md)
+- [`std::iota`](./algorithms/std-iota.md)
