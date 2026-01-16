@@ -16,3 +16,4 @@
 - [`std::search`](./algorithms/std-search.md)
 - [`std::adjacent_find`](./algorithms/std-adjacent_if.md)
 - [`std::binary_search`](./algorithms/std-binary_search.md)
+- [`std::sort`](./algorithms/std-sort.md)
