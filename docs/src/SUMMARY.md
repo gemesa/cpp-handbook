@@ -50,3 +50,4 @@
 - [`std::map`](./data-structures/std-map.md)
 - [`std::unordered_map`](./data-structures/std-unordered_map.md)
 - [`std::flat_map`](./data-structures/std-flat_map.md)
+- [`std::set`/`std::unordered_set`](./data-structures/std-set-std-unordered_set.md)
