@@ -43,3 +43,4 @@
 # Data structures
 
 - [`std-array`](./data-structures/std-array.md)
+- [`std::vector`](./data-structures/std-vector.md)
