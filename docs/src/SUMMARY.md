@@ -33,3 +33,4 @@
 - [`std::min_element`/`std::max_element`/`std::minmax_element`](./algorithms/std-minmax.md)
 - [`std::clamp`](./algorithms/std-clamp.md)
 - [`std::partition`](./algorithms/std-partition.md)
+- [`std::set_intersection`/`std::set_union`/`std::set_difference`](./algorithms/std-set_intersection-set_union-set_difference.md)
