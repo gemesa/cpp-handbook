@@ -64,3 +64,4 @@
 # Design patterns and idioms
 
 - [Visitor pattern](./design-patterns-and-idioms/visitor-pattern.md)
+- [Factory pattern](./design-patterns-and-idioms/factory-pattern.md)
