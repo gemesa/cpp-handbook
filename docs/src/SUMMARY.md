@@ -58,3 +58,4 @@
 - [`std::span`](./data-structures/std-span.md)
 - [`std::string_view`](./data-structures/std-string_view.md)
 - [`std::stack`](./data-structures/std-stack.md)
+- [`std::queue`](./data-structures/std-queue.md)
