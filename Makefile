@@ -1,6 +1,7 @@
 SUBDIRS := \
 src/algorithms \
-src/data-structures
+src/data-structures \
+src/design-patterns-and-idioms
 
 .PHONY: all clean run format format-check $(SUBDIRS)
 

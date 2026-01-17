@@ -60,3 +60,6 @@
 - [`std::stack`](./data-structures/std-stack.md)
 - [`std::queue`](./data-structures/std-queue.md)
 - [`std::priority_queue`](./data-structures/std-priority_queue.md)
+
+# Design patterns and idioms
+
