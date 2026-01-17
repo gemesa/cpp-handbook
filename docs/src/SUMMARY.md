@@ -37,3 +37,4 @@
 - [`std::merge`](./algorithms/std-merge.md)
 - [`std::generator`](./algorithms/std-generator.md)
 - [`std::rotate`](./algorithms/std-rotate.md)
+- [`std::shuffle`](./algorithms/std-shuffle.md)
