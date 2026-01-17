@@ -49,3 +49,4 @@
 - [`std::forward_list`](./data-structures/std-forward_list.md)
 - [`std::map`](./data-structures/std-map.md)
 - [`std::unordered_map`](./data-structures/std-unordered_map.md)
+- [`std::flat_map`](./data-structures/std-flat_map.md)
