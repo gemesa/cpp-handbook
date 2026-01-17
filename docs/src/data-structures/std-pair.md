@@ -4,7 +4,7 @@
 
 Holds exactly two values of potentially different types.
 
-See [`std::pair`](https://en.cppreference.com/w/cpp/container/pair.html).
+See [`std::pair`](https://en.cppreference.com/w/cpp/utility/pair.html).
 
 Memory: inline (stack if local). Size = sizeof(T1) + sizeof(T2) + padding.
 
