@@ -36,3 +36,4 @@
 - [`std::set_intersection`/`std::set_union`/`std::set_difference`](./algorithms/std-set_intersection-set_union-set_difference.md)
 - [`std::merge`](./algorithms/std-merge.md)
 - [`std::generator`](./algorithms/std-generator.md)
+- [`std::rotate`](./algorithms/std-rotate.md)
