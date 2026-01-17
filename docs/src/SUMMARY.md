@@ -34,3 +34,4 @@
 - [`std::clamp`](./algorithms/std-clamp.md)
 - [`std::partition`](./algorithms/std-partition.md)
 - [`std::set_intersection`/`std::set_union`/`std::set_difference`](./algorithms/std-set_intersection-set_union-set_difference.md)
+- [`std::merge`](./algorithms/std-merge.md)
