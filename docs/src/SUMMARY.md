@@ -63,3 +63,4 @@
 
 # Design patterns and idioms
 
+- [Visitor pattern](./design-patterns-and-idioms/visitor-pattern.md)
