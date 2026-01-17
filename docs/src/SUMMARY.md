@@ -46,3 +46,4 @@
 - [`std::vector`](./data-structures/std-vector.md)
 - [`std::deque`](./data-structures/std-deque.md)
 - [`std::list`](./data-structures/std-list.md)
+- [`std::forward_list`](./data-structures/std-forward_list.md)
