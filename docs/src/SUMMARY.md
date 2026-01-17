@@ -38,3 +38,4 @@
 - [`std::generator`](./algorithms/std-generator.md)
 - [`std::rotate`](./algorithms/std-rotate.md)
 - [`std::shuffle`](./algorithms/std-shuffle.md)
+- [`std::next_permutation`](./algorithms/std-next_permutation.md)
