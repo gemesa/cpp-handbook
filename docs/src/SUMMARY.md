@@ -41,3 +41,5 @@
 - [`std::next_permutation`](./algorithms/std-next_permutation.md)
 
 # Data structures
+
+- [`std-array`](./data-structures/std-array.md)
