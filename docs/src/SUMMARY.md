@@ -45,3 +45,4 @@
 - [`std-array`](./data-structures/std-array.md)
 - [`std::vector`](./data-structures/std-vector.md)
 - [`std::deque`](./data-structures/std-deque.md)
+- [`std::list`](./data-structures/std-list.md)
