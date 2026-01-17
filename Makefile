@@ -1,5 +1,6 @@
 SUBDIRS := \
-src/algorithms
+src/algorithms \
+src/data-structures
 
 .PHONY: all clean run format format-check $(SUBDIRS)
 
