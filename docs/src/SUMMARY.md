@@ -53,3 +53,4 @@
 - [`std::set`/`std::unordered_set`](./data-structures/std-set-std-unordered_set.md)
 - [`std::multimap`/`std::multiset`](./data-structures/std-multimap-std-multiset.md)
 - [`std::pair`](./data-structures/std-pair.md)
+- [`std::tuple`](./data-structures/std-tuple.md)
