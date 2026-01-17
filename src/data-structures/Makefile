@@ -1,4 +1,12 @@
 CXX := clang++
+UNAME := $(shell uname)
+
+ifeq ($(UNAME), Darwin)
+    LDFLAGS := -L/opt/homebrew/opt/llvm/lib/c++ -Wl,-rpath,/opt/homebrew/opt/llvm/lib/c++
+else
+    LDFLAGS :=
+endif
+
 CXXFLAGS := -std=c++23 -Wall -Wextra -Werror -I.
 BUILD_DIR := build
 
@@ -10,7 +18,7 @@ BINS := $(addprefix $(BUILD_DIR)/,$(SRCS:.cpp=))
 all: $(BINS)
 
 $(BUILD_DIR)/%: %.cpp | $(BUILD_DIR)
-	$(CXX) $(CXXFLAGS) $< -o $@
+	$(CXX) $(CXXFLAGS) $< -o $@ $(LDFLAGS)
 
 $(BUILD_DIR):
 	mkdir -p $(BUILD_DIR)
