@@ -55,3 +55,4 @@
 - [`std::pair`](./data-structures/std-pair.md)
 - [`std::tuple`](./data-structures/std-tuple.md)
 - [`std::string`](./data-structures/std-string.md)
+- [`std::span`](./data-structures/std-span.md)
