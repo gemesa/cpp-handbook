@@ -66,5 +66,5 @@
 - [Visitor pattern](./design-patterns-and-idioms/visitor-pattern.md)
 - [Factory pattern](./design-patterns-and-idioms/factory-pattern.md)
 - [CRTP (Curiously Recurring Template Pattern)](./design-patterns-and-idioms/crtp.md)
-- [Resource Acquisition Is Initialization](./design-patterns-and-idioms/raii.md)
+- [RAII (Resource Acquisition Is Initialization)](./design-patterns-and-idioms/raii.md)
 - [Singleton](./design-patterns-and-idioms/singleton.md)
