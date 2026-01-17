@@ -17,7 +17,6 @@ Time complexity:
 | `size()`,`empty()`          | O(1)                       |
 | `push_back()`, `pop_back()` | O(1) amortized             |
 | `insert()`/`erase()`        | O(n) (must shift elements) |
-| `size()`/`empty()`          | O(1)                       |
 | `reserve()`/`resize()`      | O(n)                       |
 
 Amortized means it is not truly constant. When the array is full, it needs to allocate a new, larger block of memory and copy everything over. Some implementations might also shrink the array, therefore `pop_back()` is marked as amortized as well.
