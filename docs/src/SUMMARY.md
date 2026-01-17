@@ -59,3 +59,4 @@
 - [`std::string_view`](./data-structures/std-string_view.md)
 - [`std::stack`](./data-structures/std-stack.md)
 - [`std::queue`](./data-structures/std-queue.md)
+- [`std::priority_queue`](./data-structures/std-priority_queue.md)
