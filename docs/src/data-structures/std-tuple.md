@@ -4,7 +4,7 @@
 
 Holds any number of values of potentially different types.
 
-See [`std::tuple`](https://en.cppreference.com/w/cpp/container/tuple.html).
+See [`std::tuple`](https://en.cppreference.com/w/cpp/utility/tuple.html).
 
 Memory: inline. Size = sum of all element sizes + padding.
 
