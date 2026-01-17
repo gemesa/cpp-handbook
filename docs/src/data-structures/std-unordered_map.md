@@ -24,6 +24,7 @@ Worst case is O(n) for every operation. It occurs with many hash collisions (all
 - Fast lookup is priority.
 - Do not need sorted iteration.
 - Large number of elements.
+- `std::unordered_map` can be slower than `std::map` for small sizes due to hash function overhead.
 
 ## Code
 
