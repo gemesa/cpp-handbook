@@ -3,3 +3,7 @@ authors = ["Andras Gemes"]
 language = "en"
 src = "src"
 title = "Modern C++ algorithms, data structures and design patterns"
+
+[output.html.fold]
+enable = true
+level = 0
