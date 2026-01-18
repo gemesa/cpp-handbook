@@ -1,4 +1,4 @@
-# `std-array`
+# `std::array`
 
 ## Explanation
 
