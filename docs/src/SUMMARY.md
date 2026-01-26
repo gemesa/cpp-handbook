@@ -34,7 +34,7 @@
   - [`std::partition`](./algorithms/std-partition.md)
   - [`std::set_intersection`/`std::set_union`/`std::set_difference`](./algorithms/std-set_intersection-set_union-set_difference.md)
   - [`std::merge`](./algorithms/std-merge.md)
-  - [`std::generator`](./algorithms/std-generator.md)
+  - [`std::generate`](./algorithms/std-generate.md)
   - [`std::rotate`](./algorithms/std-rotate.md)
   - [`std::shuffle`](./algorithms/std-shuffle.md)
   - [`std::next_permutation`](./algorithms/std-next_permutation.md)
